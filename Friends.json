@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lionel Andres Messi",
+    "hobby": "Marcar Goles",
+    "edad": "33",
+    "numero": "56485537",
+    "dir": "Rosario"
+  },
+  {
+    "name": "Ter Stegen",
+    "hobby": "Parar Goles",
+    "edad": "28",
+    "numero": "56773548",
+    "dir": "Monchengladbach"
+   },
+   {
+    "name": "Gerard Pique",
+    "hobby": "Defender",
+    "edad": "33",
+    "numero": "56114896",
+    "dir": "Barcelona"
+   },
+   {
+    "name": "Pedri Gonzalez",
+    "hobby": "Crear juego",
+    "edad": "18",
+    "numero": "52476355",
+    "dir": "Tegueste"
+   }
+   {
+    "name": "Ansu Fati",
+    "hobby": "Marcar goles",
+    "edad": "18",
+    "numero": "56320014",
+    "dir": "Bisau"
+   },
+   {
+    "name": "Samuel Umtiti",
+    "hobby": "Lesionarse",
+    "edad": "27",
+    "numero": "50012773",
+    "dir": "Yaunde"
+   }
+]
